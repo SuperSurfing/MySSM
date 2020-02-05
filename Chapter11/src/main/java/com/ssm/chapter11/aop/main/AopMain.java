@@ -11,10 +11,10 @@ import com.ssm.chapter11.game.pojo.Role;
 
 public class AopMain {
 	public static void main(String[] args) {
-//		testAnnotation();
+		testAnnotation();
 //		testXML();
 //		testAopParams();
-		testIntroduction();
+//		testIntroduction();
 	}
 	
 	private static void testAnnotation() {
